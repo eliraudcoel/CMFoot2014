@@ -1,0 +1,16 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	background-color: #DDD;
+	width: 100%;
+}
+
+.image_header, .footer_img {
+	margin: 0 auto;
+	text-align: center;
+	display: block;
+}
+
+table {
+	margin: 0 2em;
+}
